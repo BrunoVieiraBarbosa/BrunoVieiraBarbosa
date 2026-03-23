@@ -1,7 +1,7 @@
 <h1 align="center">Oi, Sou o Bruno</h1>
 <h3 align="center">Um cientista de dados e desenvolvedor web. Desenvolvo algumas automações e nas horas vagas me arrisco em outros tipos de projetos(dos mais variados).</h3>
 
-- 🔭 Estou atualmente trabalhando como **analista de vendas**
+- 🔭 Estou atualmente trabalhando como **TI**
 
 - 🌱Atualmente estou aprendendo **JavaScript**
 
