@@ -46,8 +46,4 @@
 
 <h3 align="left">Algumas estatísticas do GitHub:</h3>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=brunovieirabarbosa&show_icons=true&locale=en&layout=compact&theme=dracula" alt="brunovieirabarbosa" /></p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=brunovieirabarbosa&show_icons=true&locale=en&theme=dracula" alt="brunovieirabarbosa" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=brunovieirabarbosa&theme=dracula" alt="brunovieirabarbosa" /></p>
